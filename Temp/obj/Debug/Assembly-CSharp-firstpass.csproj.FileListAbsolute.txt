@@ -1,0 +1,2 @@
+/Users/deeptibelsare/Documents/Unity Projects/Scripting/Temp/obj/Debug/Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+/Users/deeptibelsare/Documents/Unity Projects/Scripting/Temp/obj/Debug/Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
